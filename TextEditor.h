@@ -10,7 +10,7 @@
 #include <unordered_set>
 #include <unordered_map>
 #include <map>
-
+#define IMGUI_EDITOR_NO_BOOST
 #ifdef IMGUI_EDITOR_NO_BOOST
 	#include <regex>
 	namespace boost = std;
