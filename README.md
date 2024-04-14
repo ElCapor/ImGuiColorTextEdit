@@ -1,3 +1,6 @@
+# About the fork of the fork of the fork (ElCapor)
+I updated the upstream fork to reflect santaclose's latest patches for the repo and it might soon include my own personal changes !
+
 # About this fork
 
 ImGuiTextEdit was originally developed by [Balázs Jákó](https://github.com/BalazsJako/ImGuiColorTextEdit) but he apparently has no
